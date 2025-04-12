@@ -36,11 +36,11 @@ export default function Contact() {
               <p className="text-xl font-semibold text-cyan-700">John Smith</p>
               <div className="flex items-center mt-3 text-gray-700">
                 <Phone className="h-4 w-4 mr-2 text-cyan-600" />
-                <span>0412 345 678</span>
+                <span>+61 488799885</span>
               </div>
               <div className="flex items-center mt-2 text-gray-700">
                 <Mail className="h-4 w-4 mr-2 text-cyan-600" />
-                <span>chair@strataexample.com</span>
+                <span>John@OceanviewStrataManagement.com</span>
               </div>
               <p className="mt-4 text-sm text-center text-gray-600 bg-cyan-50 p-3 rounded-lg">
                 Responsible for chairing meetings and overall strata management.
@@ -65,11 +65,11 @@ export default function Contact() {
               <p className="text-xl font-semibold text-amber-700">Sarah Johnson</p>
               <div className="flex items-center mt-3 text-gray-700">
                 <Phone className="h-4 w-4 mr-2 text-amber-600" />
-                <span>0423 456 789</span>
+                <span>+61 433678891</span>
               </div>
               <div className="flex items-center mt-2 text-gray-700">
                 <Mail className="h-4 w-4 mr-2 text-amber-600" />
-                <span>treasurer@strataexample.com</span>
+                <span>Sarah@OceanviewStrataManagement.com</span>
               </div>
               <p className="mt-4 text-sm text-center text-gray-600 bg-amber-50 p-3 rounded-lg">
                 Manages financial matters including budgets and expense tracking.
@@ -94,11 +94,11 @@ export default function Contact() {
               <p className="text-xl font-semibold text-emerald-700">Michael Lee</p>
               <div className="flex items-center mt-3 text-gray-700">
                 <Phone className="h-4 w-4 mr-2 text-emerald-600" />
-                <span>0434 567 890</span>
+                <span>+61 433439008</span>
               </div>
               <div className="flex items-center mt-2 text-gray-700">
                 <Mail className="h-4 w-4 mr-2 text-emerald-600" />
-                <span>secretary@strataexample.com</span>
+                <span>Michael@OceanviewStrataManagement.com</span>
               </div>
               <p className="mt-4 text-sm text-center text-gray-600 bg-emerald-50 p-3 rounded-lg">
                 Handles correspondence, meeting minutes, and record keeping.
@@ -107,6 +107,9 @@ export default function Contact() {
           </Card>
         </div>
       </div>
+
+
+    
     </main>
   )
 }
