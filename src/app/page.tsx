@@ -9,7 +9,7 @@ export default function Home() {
     <main>
       {/* Building Cover Photo */}
       <div className="relative w-full h-[300px] mb-8">
-        <Image src="/placeholder.svg?height=600&width=1200" alt="Our Building" fill className="object-cover" priority />
+        <Image src="/images/CoverPhoto.png" alt="Our Building" fill className="object-cover" priority />
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
           <div className="container mx-auto px-4 pb-6">
             <h1 className="text-4xl font-bold text-white mb-2">Oceanview Strata</h1>
