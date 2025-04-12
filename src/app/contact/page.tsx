@@ -26,9 +26,9 @@ export default function Contact() {
             <CardContent className="flex flex-col items-center pt-6">
               <div className="w-40 h-40 rounded-full overflow-hidden mb-4 border-4 border-cyan-200">
                 <Image
-                  src="/placeholder.svg?height=160&width=160"
+                  src="/images/photo1.png"
                   width={160}
-                  height={160}
+                  height={120}
                   alt="John Smith"
                   className="object-cover"
                 />
@@ -55,9 +55,9 @@ export default function Contact() {
             <CardContent className="flex flex-col items-center pt-6">
               <div className="w-40 h-40 rounded-full overflow-hidden mb-4 border-4 border-amber-200">
                 <Image
-                  src="/placeholder.svg?height=160&width=160"
+                  src="/images/photo2.png"
                   width={160}
-                  height={160}
+                  height={130}
                   alt="Sarah Johnson"
                   className="object-cover"
                 />
@@ -84,7 +84,7 @@ export default function Contact() {
             <CardContent className="flex flex-col items-center pt-6">
               <div className="w-40 h-40 rounded-full overflow-hidden mb-4 border-4 border-emerald-200">
                 <Image
-                  src="/placeholder.svg?height=160&width=160"
+                  src="/images/photo3.png"
                   width={160}
                   height={160}
                   alt="Michael Lee"
