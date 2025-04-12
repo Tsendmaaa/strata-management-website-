@@ -13,7 +13,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
           <div className="container mx-auto px-4 pb-6">
             <h1 className="text-4xl font-bold text-white mb-2">Oceanview Strata</h1>
-            <p className="text-white/90">123 Beach Road, Seaside</p>
+            <p className="text-white/90">567 Beach Road, Seaside, NSW </p>
           </div>
         </div>
       </div>
